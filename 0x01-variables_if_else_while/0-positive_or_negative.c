@@ -4,6 +4,7 @@
 /**
  * main - block
  * return: 0
+ * Description:
  */
 int main(void)
 {
@@ -20,6 +21,6 @@ int main(void)
 	} else
 	{
 		printf("%d is positive\n", n);
-	}	
+	}
 	return (0);
 }
